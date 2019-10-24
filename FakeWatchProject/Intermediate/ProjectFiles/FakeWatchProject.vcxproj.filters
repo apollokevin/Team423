@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FakeWatchProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7666405D-C183-4719-B3C4-CD06BB15D19B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FakeWatchProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FakeWatchProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C27EE5A5-F8E4-470B-AB4A-8482DFF7C8DA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FakeWatchProject">
+      <UniqueIdentifier>{AF4572CB-B935-40E1-9509-E2FBC0983CBA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FakeWatchProject\FakeWatchProject.Build.cs">
+      <Filter>Source\FakeWatchProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FakeWatchProject\FakeWatchProject.cpp">
+      <Filter>Source\FakeWatchProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FakeWatchProject\FakeWatchProject.h">
+      <Filter>Source\FakeWatchProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FakeWatchProject\FakeWatchProjectCharacter.cpp">
+      <Filter>Source\FakeWatchProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FakeWatchProject\FakeWatchProjectCharacter.h">
+      <Filter>Source\FakeWatchProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FakeWatchProject\FakeWatchProjectGameMode.cpp">
+      <Filter>Source\FakeWatchProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FakeWatchProject\FakeWatchProjectGameMode.h">
+      <Filter>Source\FakeWatchProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FakeWatchProject\FakeWatchProjectHUD.cpp">
+      <Filter>Source\FakeWatchProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FakeWatchProject\FakeWatchProjectHUD.h">
+      <Filter>Source\FakeWatchProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FakeWatchProject\FakeWatchProjectProjectile.cpp">
+      <Filter>Source\FakeWatchProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FakeWatchProject\FakeWatchProjectProjectile.h">
+      <Filter>Source\FakeWatchProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

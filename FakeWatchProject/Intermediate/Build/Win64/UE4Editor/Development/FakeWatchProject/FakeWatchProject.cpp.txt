@@ -1,0 +1,2 @@
+D:\Unreal\FakeWatch\FakeWatchProject\Intermediate\Build\Win64\UE4Editor\Development\FakeWatchProject\Definitions.FakeWatchProject.h
+d:\unreal\fakewatch\fakewatchproject\source\fakewatchproject\FakeWatchProject.h
