@@ -1,0 +1,3 @@
+D:\Unreal\FakeWatch\FakeWatchProject\Source\FakeWatchProject\FakeWatchProject.Build.cs
+D:\Unreal\FakeWatch\FakeWatchProject\Source\FakeWatchProject.Target.cs
+D:\Unreal\FakeWatch\FakeWatchProject\Source\FakeWatchProjectEditor.Target.cs
